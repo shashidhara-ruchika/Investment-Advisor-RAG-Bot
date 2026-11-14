@@ -5,8 +5,6 @@ transformers
 torch
 pandas
 yahooquery
-yahoo-fin
-requests-html
 numpy
 scikit-learn
 matplotlib
